@@ -1,41 +1,43 @@
-# 🐞 Archive de rapports de bugs
+# 🐞 Archive de rapports de bugs & idées
 
-![Taille du dépôt](https://img.shields.io/github/repo-size/USERNAME/REPO)
-![Dernier commit](https://img.shields.io/github/last-commit/USERNAME/REPO)
-![Issues](https://img.shields.io/github/issues/USERNAME/REPO)
+![Taille du dépôt](https://img.shields.io/github/repo-size/ValentinGratz/bug-reports-archive)
+![Dernier commit](https://img.shields.io/github/last-commit/ValentinGratz/bug-reports-archive)
+![Issues](https://img.shields.io/github/issues/ValentinGratz/bug-reports-archive)
 
 ---
 
 ## 📖 À propos
 
-Ce dépôt est une archive personnelle de rapports de bugs observés sur différentes plateformes, applications et sites web.
+Ce dépôt est une archive personnelle de rapports de bugs et de propositions d'amélioration observés sur différentes plateformes, applications et sites web.
 
 Il sert à :
 - Documenter des problèmes réels rencontrés en conditions d’utilisation
+- Proposer des améliorations concrètes basées sur l'expérience utilisateur
 - Structurer une approche type QA (tests & analyse de bugs)
-- Constituer un portfolio technique autour du debugging
+- Constituer un portfolio technique autour du debugging et de la product feedback
 
 ---
 
 ## 🧩 Organisation du dépôt
 
-Les bugs sont classés par environnement :
+Les entrées sont classées par environnement :
 
-- 📱 Facebook
-- 📸 Instagram
-- 🤖 Android
-- 🍏 iOS
-- 🌐 Web
-- 🧪 Autres systèmes
+- 📱 **Meta/**
+    - `Bugs/` → Bugs Facebook, Instagram, Threads, WhatsApp
+    - `Ideas/` → Propositions d'amélioration et feature requests
+- 🤖 **Android/**
+- 🍏 **iOS/**
+- 🌐 **Web/**
+- 🧪 **Autres systèmes/**
 
-Chaque bug est documenté dans un fichier Markdown suivant un format standardisé.
+Chaque entrée est documentée dans un fichier Markdown suivant un format standardisé.
 
 ---
 
-## 📝 Format des rapports de bugs
+## 📝 Format des rapports
 
+### 🐛 Pour les bugs
 Chaque rapport contient généralement :
-
 - Titre du bug
 - Conditions de reproduction
 - Symptômes observés (interface / comportement)
@@ -45,8 +47,18 @@ Chaque rapport contient généralement :
 - Impact utilisateur
 - Identifiants ou liens (si applicable)
 
-Le modèle complet est disponible dans :
-`/Templates/bug-template.md`
+Le modèle complet est disponible dans : `/Templates/bug-template.md`
+
+### 💡 Pour les idées d'amélioration
+Chaque proposition contient :
+- Titre de l'idée
+- Problème actuel / limitation
+- Proposition d'amélioration détaillée
+- Bénéfices pour utilisateurs/créateurs/plateforme
+- Plateformes concernées
+- Ressources et feedback communauté
+
+Le modèle complet est disponible dans : `/Meta/Ideas/TEMPLATE.md`
 
 ---
 
@@ -55,13 +67,14 @@ Le modèle complet est disponible dans :
 Ce dépôt peut également contenir des analyses ou articles externes liés à des problèmes observés dans certains produits.
 
 Ces ressources permettent de :
-- Mettre en contexte certains bugs
+- Mettre en contexte certains bugs ou idées
 - Relier observations terrain et analyses produit
 - Enrichir la compréhension globale des problèmes
+- Appuyer les propositions d'amélioration avec des cas concrets
 
 ---
 
-## ⚠️ Avertissement
+## ⚠ Avertissement
 
 Ce dépôt ne contient aucune donnée sensible, privée ou confidentielle.
 
@@ -76,13 +89,17 @@ Améliorer mes compétences en :
 - Compréhension des systèmes complexes
 - Documentation technique structurée
 - Approche QA / debugging réel
+- **Product thinking et rédaction de feature requests**
 
 ---
 
 ## 🧠 Philosophie
 
-Un bug n’est pas juste une erreur :
+Un bug n’est pas juste une erreur :  
 c’est un comportement système qui raconte quelque chose sur le produit.
+
+Une idée n’est pas juste une demande :  
+c’est un retour d’expérience qui peut améliorer le produit pour tous.
 
 ---
 
