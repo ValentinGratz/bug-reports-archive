@@ -46,5 +46,5 @@ Les commentaires utilisateurs doivent s'afficher sous la section "Affiché préc
 Impossible de lire ou d'interagir avec les commentaires en live sans manipulation. L'expérience Live communautaire est cassée.
 
 ## Pièces jointes
-1. `screenshot-1.png` : Vue avec compteur "8" commentaires mais section vide
-2. `screenshot-2.png` : Vue rapprochée montrant uniquement "Affiché précédemment" et épinglés
+<img width="1266" height="598" alt="image" src="https://github.com/user-attachments/assets/e85daf71-1504-4023-a907-cdaf567de121" />
+
