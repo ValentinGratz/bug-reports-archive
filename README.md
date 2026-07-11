@@ -28,6 +28,7 @@ Les entrées sont classées par environnement :
 - 🤖 **Android/**
 - 🍏 **iOS/**
 - 🌐 **Web/**
+    -  `Mym.fans/` → Bugs Facebook, Instagram, Threads, WhatsApp
 - 🧪 **Autres systèmes/**
 
 Chaque entrée est documentée dans un fichier Markdown suivant un format standardisé.
