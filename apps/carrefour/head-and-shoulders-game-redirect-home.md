@@ -8,7 +8,7 @@
 * Version Android : Android 9
 * Version de l'application : 23.3.0
 * Date : 2026-06-23
-* Statut : Ouvert
+* Statut : ~Ouvert~ Fermé
 
 ---
 
@@ -45,3 +45,6 @@ Le jeu se ferme immédiatement après le début du décompte et l'utilisateur es
 ## Notes complémentaires
 
 Problème reproduit plusieurs fois sans changement de comportement.
+
+### Màj du 13/07/2026 
+Réponse du support carrefour : version de mon smartphone trop vieille android 9 plus pris en charge.
