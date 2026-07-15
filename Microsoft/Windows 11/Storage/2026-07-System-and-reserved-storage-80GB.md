@@ -77,3 +77,9 @@ Le problème pourrait être lié à une accumulation de données système tempor
 - Déployer un correctif empêchant cette accumulation excessive.
 
 Le pack Tuesday du 14 juillet n'a presque rien changé. 
+Résultat avec le pack Tuesday du 14juillet + un nettoyage ccleaner et une aide de copilot : 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e086511c-f2f8-48bf-90a2-9891e6ab8f92" />
+
+et aprés quelques manip via copilot, retour à l'anormal. 
+
+Mais en date du 15 juillet, toujours ce même bug : <img width="481" height="107" alt="image" src="https://github.com/user-attachments/assets/0a0f0ca0-61ab-418c-a977-4d9377b9dbb7" />
