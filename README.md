@@ -25,6 +25,8 @@ Les entrées sont classées par environnement :
 - 📱 **Meta/**
     - `Bugs/` → Bugs Facebook, Instagram, Threads, WhatsApp
     - `Ideas/` → Propositions d'amélioration et feature requests
+- Microsoft
+    - `Windows 11` → Bug storage, et autre bug rapporter dans le hub de commentaires dédié.
 - 🤖 **Android/**
 - 🍏 **iOS/**
 - 🌐 **Web/**
