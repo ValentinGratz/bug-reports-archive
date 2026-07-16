@@ -28,9 +28,13 @@ Les entrées sont classées par environnement :
 - Microsoft
     - `Windows 11` → Bug storage, et autre bug rapporter dans le hub de commentaires dédié.
 - 🤖 **Android/**
+    - `Carrefour` → Bug appli, jeu.
+    - `Doctolib` → Bug appli, affichage.
+
 - 🍏 **iOS/**
 - 🌐 **Web/**
     -  `Mym.fans/` → Bugs Facebook, Instagram, Threads, WhatsApp
+- WordPress
 - 🧪 **Autres systèmes/**
 
 Chaque entrée est documentée dans un fichier Markdown suivant un format standardisé.
