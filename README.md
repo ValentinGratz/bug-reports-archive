@@ -29,7 +29,8 @@ Les entrées sont classées par environnement :
     - `Windows 11` → Bug storage, et autre bug rapporter dans le hub de commentaires dédié.
 - 🤖 **Android/**
     - `Carrefour` → Bug appli, jeu.
-    - `Doctolib` → Bug appli, affichage. 
+    - `Doctolib` → Bug appli, affichage.
+    - `Ville de Wingles - MaVilleConnecté` → Bug connexion, bug appli de Wingles et autre applications du même éditeur. 
 
 - 🍏 **iOS/**
 - 🌐 **Web/**
